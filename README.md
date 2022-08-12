@@ -9,4 +9,4 @@
 
 
 Link de estudo:
-* [](https://www.kaggle.com/code/lekeoguntoyinbo/co2-emission-of-cars-data-analysis/notebook)
+* [co2-emission-of-cars- data analysis](https://www.kaggle.com/code/lekeoguntoyinbo/co2-emission-of-cars-data-analysis/notebook)
